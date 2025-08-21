@@ -13,7 +13,7 @@ require (
 	github.com/shoenig/test v1.12.1
 	golang.org/x/net v0.40.0
 	google.golang.org/api v0.233.0
-	google.golang.org/protobuf v1.36.6
+	google.golang.org/protobuf v1.36.8
 )
 
 require (
