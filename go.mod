@@ -10,7 +10,7 @@ require (
 	cloud.google.com/go/bigquery v1.68.0
 	connectrpc.com/connect v1.18.1
 	github.com/google/go-replayers/grpcreplay v1.3.0
-	github.com/shoenig/test v1.12.1
+	github.com/shoenig/test v1.12.2
 	golang.org/x/net v0.40.0
 	google.golang.org/api v0.233.0
 	google.golang.org/protobuf v1.36.6
